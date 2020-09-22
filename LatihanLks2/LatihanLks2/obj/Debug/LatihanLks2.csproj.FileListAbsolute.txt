@@ -1,0 +1,13 @@
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\bin\Debug\LatihanLks2.exe.config
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\bin\Debug\LatihanLks2.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\bin\Debug\LatihanLks2.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\LatihanLks2.csprojResolveAssemblyReference.cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\LatihanLks2.Form1.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\LatihanLks2.Properties.Resources.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\LatihanLks2.csproj.GenerateResource.Cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\LatihanLks2.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\LatihanLks2.pdb
+C:\Users\HP2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\GUI\Ui.baml
+C:\Users\HP2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\GUI\Ui.g.cs
+C:\Users\HP2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\LatihanLks2_MarkupCompile.cache
+C:\Users\HP2017-08\documents\visual studio 2012\Projects\LatihanLks2\LatihanLks2\obj\Debug\LatihanLks2.g.resources

@@ -1,0 +1,10 @@
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\bin\Debug\GrandHotel.exe.config
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\obj\Debug\GrandHotel.csprojResolveAssemblyReference.cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\obj\Debug\GrandHotel.GUI.Main.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\obj\Debug\GrandHotel.Properties.Resources.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\obj\Debug\GrandHotel.csproj.GenerateResource.Cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\bin\Debug\GrandHotel.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\bin\Debug\GrandHotel.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\obj\Debug\GrandHotel.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\obj\Debug\GrandHotel.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotel\GrandHotel\obj\Debug\GrandHotel.GUI.Employee.resources

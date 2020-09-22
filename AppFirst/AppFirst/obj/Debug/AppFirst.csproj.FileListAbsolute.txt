@@ -1,0 +1,9 @@
+c:\users\hp2017-08\documents\visual studio 2012\Projects\AppFirst\AppFirst\bin\Debug\AppFirst.exe.config
+c:\users\hp2017-08\documents\visual studio 2012\Projects\AppFirst\AppFirst\bin\Debug\AppFirst.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\AppFirst\AppFirst\bin\Debug\AppFirst.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\AppFirst\AppFirst\obj\Debug\AppFirst.csprojResolveAssemblyReference.cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\AppFirst\AppFirst\obj\Debug\AppFirst.Default.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\AppFirst\AppFirst\obj\Debug\AppFirst.Properties.Resources.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\AppFirst\AppFirst\obj\Debug\AppFirst.csproj.GenerateResource.Cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\AppFirst\AppFirst\obj\Debug\AppFirst.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\AppFirst\AppFirst\obj\Debug\AppFirst.pdb

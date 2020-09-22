@@ -1,0 +1,11 @@
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\bin\Debug\GrandHotelLKS.exe.config
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\bin\Debug\GrandHotelLKS.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\bin\Debug\GrandHotelLKS.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\obj\Debug\GrandHotelLKS.csprojResolveAssemblyReference.cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\obj\Debug\GrandHotelLKS.Form1.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\obj\Debug\GrandHotelLKS.Properties.Resources.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\obj\Debug\GrandHotelLKS.csproj.GenerateResource.Cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\obj\Debug\GrandHotelLKS.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\obj\Debug\GrandHotelLKS.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\obj\Debug\GrandHotelLKS.GUI.Main.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\GrandHotelLKS\GrandHotelLKS\obj\Debug\GrandHotelLKS.GUI.Login.resources

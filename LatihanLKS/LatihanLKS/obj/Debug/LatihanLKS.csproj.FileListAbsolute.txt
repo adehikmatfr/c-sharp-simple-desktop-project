@@ -1,0 +1,10 @@
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\bin\Debug\LatihanLKS.exe.config
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\bin\Debug\LatihanLKS.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\bin\Debug\LatihanLKS.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\obj\Debug\LatihanLKS.csprojResolveAssemblyReference.cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\obj\Debug\LatihanLKS.Properties.Resources.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\obj\Debug\LatihanLKS.csproj.GenerateResource.Cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\obj\Debug\LatihanLKS.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\obj\Debug\LatihanLKS.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\obj\Debug\LatihanLKS.AddJob.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\LatihanLKS\LatihanLKS\obj\Debug\LatihanLKS.AddEmployee.resources

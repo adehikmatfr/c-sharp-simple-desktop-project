@@ -1,0 +1,18 @@
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.csprojResolveAssemblyReference.cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.GUI.MenuUtama.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.Properties.Resources.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.csproj.GenerateResource.Cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.GUI.FormBuku.resources
+C:\Users\HP2017-08\Documents\Visual Studio 2012\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe.manifest
+C:\Users\HP2017-08\Documents\Visual Studio 2012\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.application
+C:\Users\HP2017-08\Documents\Visual Studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.exe.manifest
+C:\Users\HP2017-08\Documents\Visual Studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.application
+C:\Users\HP2017-08\Documents\Visual Studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.GUI.Splash.resources
+C:\Users\HP2017-08\Documents\Visual Studio 2012\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.GUI.FormPelanggan.resources
+F:\Ade Hikmat\C#\Projects\Penjualan\Penjualan\bin\Debug\Penjualan.exe.config
+F:\Ade Hikmat\C#\Projects\Penjualan\Penjualan\obj\Debug\Penjualan.exe

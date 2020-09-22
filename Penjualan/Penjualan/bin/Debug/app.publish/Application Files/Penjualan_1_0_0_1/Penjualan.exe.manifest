@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Penjualan.exe" version="1.0.0.1" publicKeyToken="d6cf69ec19000d90" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Penjualan" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Penjualan.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Penjualan.exe" size="475648">
+      <assemblyIdentity name="Penjualan" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>08SkxOgAQDch7QTg16tzUYv0T13M7zy1Ap1M+1MGToM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Penjualan.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-8VEI6K7E\HP2017-08" issuerKeyHash="0ba4ffeb0d760322215cfa73c25eb87996fad47b" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>igNIXHyQTrmMZhimxG8aRb9O4pKmsFEdnlNbNo8tyEE=</DigestValue></Reference></SignedInfo><SignatureValue>RI2CLy99xzuyrm6XN6oGrn/5hRe9WyiFHYL/wq87ioxbGtUPXFs1qme/q5FEGlTSf5VWApvk4oTQxgkTN8t+ymj1WMZ7K8EJaPlsrtUmTf+rnNUWHu6zB8S3FsQ4msJU90s8LOOu3x44rNz2OW6C9Cy+3+kM90Kwl23GunTcO7s=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tYyXv5icgVFo2/7mWPLZTSfxLweLB0xOW2hKKAGQWC0URuF+3szvtACSFQhrttiVynsVUG0rpuLXR7jUKl0P6NuDWkExH4eJXjRc9ajNZFxVoAarAttwLZyg7h20iIXVELG7WyN97U1snFnJpWzLs9sTwENXnOzwEbgiCzd8lMU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="41c82d8f365b539e1d51b0a692e24ebf451a6fc4a618668cb94e907c5c48038a" Description="" Url=""><as:assemblyIdentity name="Penjualan.exe" version="1.0.0.1" publicKeyToken="d6cf69ec19000d90" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-8VEI6K7E\HP2017-08</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Js03vXn2B/UKNWh+MUrzVG+VuDfaEGzgfHmTgsaJI4M=</DigestValue></Reference></SignedInfo><SignatureValue>XkbdYw3bU5fAROZ7Oz6I947tSyDu0wgckCFITWL5ROS3ir3q6a1ql6zJmHnygWRXtmL5gzkaG5Z5fOSvwOk2n6ejK7pIiOwf7rMaH/fmcKQHpbACiV3A1Cz0j/8EhhzMDahNV0BOcEzEZ3hp8Far65rDsGabdd6ZCBLQeZ6+JJA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tYyXv5icgVFo2/7mWPLZTSfxLweLB0xOW2hKKAGQWC0URuF+3szvtACSFQhrttiVynsVUG0rpuLXR7jUKl0P6NuDWkExH4eJXjRc9ajNZFxVoAarAttwLZyg7h20iIXVELG7WyN97U1snFnJpWzLs9sTwENXnOzwEbgiCzd8lMU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQOKvZ+s1Rco1CrgXjgB/5MjANBgkqhkiG9w0BAQsFADA9MTswOQYDVQQDHjIATABBAFAAVABPAFAALQA4AFYARQBJADYASwA3AEUAXABIAFAAMgAwADEANwAtADAAODAeFw0xOTEwMDYxMjAwMjlaFw0yMDEwMDUxODAwMjlaMD0xOzA5BgNVBAMeMgBMAEEAUABUAE8AUAAtADgAVgBFAEkANgBLADcARQBcAEgAUAAyADAAMQA3AC0AMAA4MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC1jJe/mJyBUWjb/uZY8tlNJ/EvB4sHTE5baEooAZBYLRRG4X7ezO+0AJIVCGu22JXKexVQbSum4tdHuNQqXQ/o24NaQTEfh4leNFz1qM1kXFWgBqsC23AtnKDuHbSIhdUQsbtbI33tTWycWcmlbMuz2xPAQ1ec7PARuCILN3yUxQIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAKImKKCrw+cVqKtAbZNIp8c1PTkXQnBE7fXPjV9yjXEmKM/bkgyoFqAHAIBjW/a1AsK1g1vih77d5TJLhP5H9duZF/M539tOsOjKBmQx6zb6BO6RHkYl8HkxctLQIrlfdxJ1P7HjHmx0A1/NLenNhX4wyd3C/ADcNY/zZoeUS+Nx</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,13 @@
+c:\users\hp2017-08\documents\visual studio 2012\Projects\BookStore\BookStore\bin\Debug\BookStore.exe.config
+c:\users\hp2017-08\documents\visual studio 2012\Projects\BookStore\BookStore\bin\Debug\BookStore.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\BookStore\BookStore\bin\Debug\BookStore.pdb
+c:\users\hp2017-08\documents\visual studio 2012\Projects\BookStore\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\BookStore\BookStore\obj\Debug\BookStore.Home.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\BookStore\BookStore\obj\Debug\BookStore.Properties.Resources.resources
+c:\users\hp2017-08\documents\visual studio 2012\Projects\BookStore\BookStore\obj\Debug\BookStore.csproj.GenerateResource.Cache
+c:\users\hp2017-08\documents\visual studio 2012\Projects\BookStore\BookStore\obj\Debug\BookStore.exe
+c:\users\hp2017-08\documents\visual studio 2012\Projects\BookStore\BookStore\obj\Debug\BookStore.pdb
+C:\Users\HP2017-08\Documents\Visual Studio 2012\Projects\BookStore\BookStore\obj\Debug\BookStore.AddBook.resources
+F:\Ade Hikmat\C#\Projects\BookStore\BookStore\bin\Debug\BookStore.exe.config
+F:\Ade Hikmat\C#\Projects\BookStore\BookStore\obj\Debug\BookStore.exe
+F:\Ade Hikmat\C#\Projects\BookStore\BookStore\obj\Debug\BookStore.pdb
